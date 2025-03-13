@@ -24,8 +24,6 @@ module.exports = {
   // 指定监控的对话ID列表（如果monitorAllChats为false）
   // 可以通过运行程序并查看日志获取对话ID
   monitorChats: [
-    // '-2187131130',
-    '2187131130'
     // 例如: -1001234567890
   ]
 };
