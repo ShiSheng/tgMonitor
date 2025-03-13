@@ -1,0 +1,14 @@
+# 忽略node_modules文件夹
+node_modules/
+
+# 忽略messages文件夹
+messages/
+
+# 忽略环境变量文件
+.env
+
+# 忽略频道ID文件
+channelid.txt
+
+# 忽略会话文件
+session.json
